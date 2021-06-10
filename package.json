@@ -1,0 +1,8 @@
+{
+  "name": "yarn-sample",
+  "version": "1.0.0",
+  "description": "yarn sample",
+  "main": "index.js",
+  "author": "Ninad Kavimandan",
+  "license": "MIT"
+}
